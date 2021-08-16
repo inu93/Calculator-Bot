@@ -12,7 +12,7 @@ FayasNoushad = Client(
 )
 
 START_TEXT = """
-Hello {}, I am a simple calculator telegram bot. Send me /calculator.
+Hello👋 {}, Saya adalah bot telegram kalkulator sederhana. Kirimkan /calculator.
 
 Made by @FayasNoushad
 """
@@ -21,7 +21,7 @@ START_BUTTONS = InlineKeyboardMarkup(
         InlineKeyboardButton('⚙ Join Updates Channel ⚙', url='https://telegram.me/FayasNoushad')
         ]]
     )
-CALCULATE_TEXT = "Made by @FayasNoushad"
+CALCULATE_TEXT = "Managae by @ebnudoang"
 CALCULATE_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton("DEL", callback_data="DEL"),
