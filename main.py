@@ -12,7 +12,7 @@ FayasNoushad = Client(
 )
 
 START_TEXT = """
-Hello👋 {}, Saya adalah bot telegram kalkulator sederhana. Kirimkan /calculator.
+Hello👋 {}, Saya adalah bot Brainly dan kalkulator sederhana. Kirimkan /cari (pertanyaan) untuk mencari jawaban, kirimkan /calculator untuk kalkulator.
 
 📍**Manage by :** [Ebnu](t.me/ebnudoang)
 """
