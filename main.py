@@ -14,11 +14,11 @@ FayasNoushad = Client(
 START_TEXT = """
 Hello👋 {}, Saya adalah bot telegram kalkulator sederhana. Kirimkan /calculator.
 
-Made by @FayasNoushad
+📍**Manage by :** [Ebnu](t.me/ebnudoang)
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('⚙ Join Updates Channel ⚙', url='https://telegram.me/FayasNoushad')
+        InlineKeyboardButton('📍 Instagram', url='https://www.instagram.com/ebnu_am/')
         ]]
     )
 CALCULATE_TEXT = "Managae by @ebnudoang"
